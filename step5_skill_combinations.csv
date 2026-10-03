@@ -1,0 +1,21 @@
+Skill_1,Skill_2,Job_Count
+AWS,Docker,422
+Docker,Python,331
+AWS,Python,326
+JavaScript,TypeScript,324
+Java,REST APIs,315
+Python,REST APIs,293
+Excel,SQL,273
+Excel,Power BI,267
+Power BI,SQL,263
+Docker,PostgreSQL,251
+MongoDB,Node.js,244
+PostgreSQL,Python,243
+Docker,Kubernetes,241
+Next.js,TypeScript,229
+AWS,Kubernetes,226
+HTML/CSS,TypeScript,224
+React,TypeScript,224
+JavaScript,Next.js,215
+Next.js,React,214
+HTML/CSS,Next.js,210

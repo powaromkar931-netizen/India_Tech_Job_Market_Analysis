@@ -1,0 +1,546 @@
+Experience_Level,Skill,Job_Count
+Fresher (0-1 yr),Python,320
+Fresher (0-1 yr),REST APIs,202
+Fresher (0-1 yr),Docker,177
+Fresher (0-1 yr),AWS,176
+Fresher (0-1 yr),SQL,166
+Fresher (0-1 yr),Java,142
+Fresher (0-1 yr),TypeScript,94
+Fresher (0-1 yr),PostgreSQL,92
+Fresher (0-1 yr),MongoDB,90
+Fresher (0-1 yr),Agile,87
+Fresher (0-1 yr),Kubernetes,87
+Fresher (0-1 yr),JavaScript,83
+Fresher (0-1 yr),JIRA,81
+Fresher (0-1 yr),React,81
+Fresher (0-1 yr),Power BI,79
+Fresher (0-1 yr),Node.js,79
+Fresher (0-1 yr),Statistics,73
+Fresher (0-1 yr),System Design,73
+Fresher (0-1 yr),Excel,71
+Fresher (0-1 yr),TensorFlow,64
+Fresher (0-1 yr),FastAPI,62
+Fresher (0-1 yr),HTML/CSS,60
+Fresher (0-1 yr),Django,57
+Fresher (0-1 yr),Next.js,55
+Fresher (0-1 yr),Tableau,50
+Fresher (0-1 yr),Linux,49
+Fresher (0-1 yr),User Research,48
+Fresher (0-1 yr),C++,48
+Fresher (0-1 yr),NLP,45
+Fresher (0-1 yr),PyTorch,44
+Fresher (0-1 yr),Hibernate,42
+Fresher (0-1 yr),Firebase,42
+Fresher (0-1 yr),Data Structures,42
+Fresher (0-1 yr),Microservices,41
+Fresher (0-1 yr),Algorithms,41
+Fresher (0-1 yr),Roadmapping,41
+Fresher (0-1 yr),Terraform,40
+Fresher (0-1 yr),Figma,40
+Fresher (0-1 yr),Airflow,39
+Fresher (0-1 yr),CI/CD,39
+Fresher (0-1 yr),Redux,38
+Fresher (0-1 yr),Redis,36
+Fresher (0-1 yr),Maven,35
+Fresher (0-1 yr),Spring Boot,35
+Fresher (0-1 yr),ETL,35
+Fresher (0-1 yr),Deep Learning,35
+Fresher (0-1 yr),Scikit-learn,35
+Fresher (0-1 yr),Git,34
+Fresher (0-1 yr),Android SDK,34
+Fresher (0-1 yr),Azure,33
+Fresher (0-1 yr),Kotlin,33
+Fresher (0-1 yr),Data Visualization,31
+Fresher (0-1 yr),Postman,30
+Fresher (0-1 yr),Selenium,30
+Fresher (0-1 yr),API Testing,29
+Fresher (0-1 yr),Manual Testing,29
+Fresher (0-1 yr),Jetpack Compose,28
+Fresher (0-1 yr),LLMs,28
+Fresher (0-1 yr),A/B Testing,25
+Fresher (0-1 yr),Requirements Gathering,25
+Fresher (0-1 yr),MLOps,25
+Fresher (0-1 yr),Tailwind CSS,25
+Fresher (0-1 yr),Jenkins,24
+Fresher (0-1 yr),GCP,24
+Fresher (0-1 yr),Spark,23
+Fresher (0-1 yr),Express.js,23
+Fresher (0-1 yr),Ansible,21
+Fresher (0-1 yr),Adobe XD,21
+Fresher (0-1 yr),Kafka,20
+Fresher (0-1 yr),Product Strategy,20
+Fresher (0-1 yr),dbt,19
+Fresher (0-1 yr),Prototyping,19
+Fresher (0-1 yr),Pandas,19
+Fresher (0-1 yr),Vector DBs,18
+Fresher (0-1 yr),Wireframing,17
+Fresher (0-1 yr),CSS,17
+Fresher (0-1 yr),Machine Learning,17
+Fresher (0-1 yr),Team Leadership,16
+Fresher (0-1 yr),Ethical Hacking,16
+Fresher (0-1 yr),Penetration Testing,16
+Fresher (0-1 yr),Network Security,16
+Fresher (0-1 yr),Hiring,16
+Fresher (0-1 yr),OKRs,16
+Fresher (0-1 yr),Core Data,16
+Fresher (0-1 yr),Publications,15
+Fresher (0-1 yr),OpenAI API,15
+Fresher (0-1 yr),People Management,15
+Fresher (0-1 yr),MLflow,15
+Fresher (0-1 yr),DAX,14
+Fresher (0-1 yr),SIEM,13
+Fresher (0-1 yr),R,12
+Fresher (0-1 yr),Prompt Engineering,12
+Fresher (0-1 yr),Data Modeling,12
+Fresher (0-1 yr),Xcode,12
+Fresher (0-1 yr),Swift,12
+Fresher (0-1 yr),LangChain,12
+Fresher (0-1 yr),Code Review,11
+Fresher (0-1 yr),HuggingFace,11
+Fresher (0-1 yr),SwiftUI,11
+Fresher (0-1 yr),Transformers,11
+Fresher (0-1 yr),BERT,9
+Fresher (0-1 yr),Web3.js,9
+Fresher (0-1 yr),SpaCy,8
+Fresher (0-1 yr),RAG,8
+Fresher (0-1 yr),Ethereum,8
+Fresher (0-1 yr),Smart Contracts,7
+Fresher (0-1 yr),OpenCV,7
+Fresher (0-1 yr),YOLO,7
+Fresher (0-1 yr),Solidity,6
+Junior (1-3 yrs),Python,406
+Junior (1-3 yrs),REST APIs,254
+Junior (1-3 yrs),AWS,227
+Junior (1-3 yrs),SQL,224
+Junior (1-3 yrs),Docker,199
+Junior (1-3 yrs),Java,160
+Junior (1-3 yrs),PostgreSQL,119
+Junior (1-3 yrs),React,117
+Junior (1-3 yrs),Agile,108
+Junior (1-3 yrs),Node.js,107
+Junior (1-3 yrs),MongoDB,106
+Junior (1-3 yrs),System Design,106
+Junior (1-3 yrs),Kubernetes,105
+Junior (1-3 yrs),JavaScript,98
+Junior (1-3 yrs),TensorFlow,97
+Junior (1-3 yrs),TypeScript,91
+Junior (1-3 yrs),Power BI,86
+Junior (1-3 yrs),JIRA,85
+Junior (1-3 yrs),Excel,84
+Junior (1-3 yrs),Microservices,79
+Junior (1-3 yrs),Next.js,71
+Junior (1-3 yrs),FastAPI,69
+Junior (1-3 yrs),HTML/CSS,68
+Junior (1-3 yrs),Statistics,67
+Junior (1-3 yrs),Algorithms,64
+Junior (1-3 yrs),Git,62
+Junior (1-3 yrs),PyTorch,62
+Junior (1-3 yrs),NLP,57
+Junior (1-3 yrs),Django,56
+Junior (1-3 yrs),Figma,56
+Junior (1-3 yrs),Deep Learning,55
+Junior (1-3 yrs),Scikit-learn,55
+Junior (1-3 yrs),Tableau,55
+Junior (1-3 yrs),Firebase,53
+Junior (1-3 yrs),Airflow,49
+Junior (1-3 yrs),C++,49
+Junior (1-3 yrs),Linux,48
+Junior (1-3 yrs),Terraform,48
+Junior (1-3 yrs),Data Structures,47
+Junior (1-3 yrs),ETL,46
+Junior (1-3 yrs),User Research,44
+Junior (1-3 yrs),CI/CD,43
+Junior (1-3 yrs),Maven,41
+Junior (1-3 yrs),Requirements Gathering,39
+Junior (1-3 yrs),Roadmapping,38
+Junior (1-3 yrs),Spring Boot,37
+Junior (1-3 yrs),Redux,37
+Junior (1-3 yrs),Redis,37
+Junior (1-3 yrs),Hibernate,36
+Junior (1-3 yrs),LLMs,36
+Junior (1-3 yrs),dbt,35
+Junior (1-3 yrs),Azure,34
+Junior (1-3 yrs),Data Visualization,33
+Junior (1-3 yrs),Kafka,33
+Junior (1-3 yrs),Team Leadership,32
+Junior (1-3 yrs),Android SDK,30
+Junior (1-3 yrs),Ansible,30
+Junior (1-3 yrs),Product Strategy,30
+Junior (1-3 yrs),Jenkins,30
+Junior (1-3 yrs),Express.js,29
+Junior (1-3 yrs),Kotlin,29
+Junior (1-3 yrs),Code Review,28
+Junior (1-3 yrs),Jetpack Compose,28
+Junior (1-3 yrs),Tailwind CSS,28
+Junior (1-3 yrs),Ethical Hacking,27
+Junior (1-3 yrs),Manual Testing,27
+Junior (1-3 yrs),Swift,27
+Junior (1-3 yrs),Spark,27
+Junior (1-3 yrs),MLOps,26
+Junior (1-3 yrs),API Testing,26
+Junior (1-3 yrs),Postman,26
+Junior (1-3 yrs),Selenium,26
+Junior (1-3 yrs),YOLO,25
+Junior (1-3 yrs),Pandas,25
+Junior (1-3 yrs),Prompt Engineering,24
+Junior (1-3 yrs),Machine Learning,24
+Junior (1-3 yrs),A/B Testing,24
+Junior (1-3 yrs),Wireframing,23
+Junior (1-3 yrs),Network Security,23
+Junior (1-3 yrs),Xcode,23
+Junior (1-3 yrs),Penetration Testing,22
+Junior (1-3 yrs),SwiftUI,22
+Junior (1-3 yrs),SIEM,21
+Junior (1-3 yrs),GCP,20
+Junior (1-3 yrs),Prototyping,20
+Junior (1-3 yrs),RAG,19
+Junior (1-3 yrs),OpenAI API,19
+Junior (1-3 yrs),Hiring,19
+Junior (1-3 yrs),HuggingFace,19
+Junior (1-3 yrs),BERT,18
+Junior (1-3 yrs),Transformers,18
+Junior (1-3 yrs),Data Modeling,17
+Junior (1-3 yrs),DAX,17
+Junior (1-3 yrs),LangChain,17
+Junior (1-3 yrs),CSS,17
+Junior (1-3 yrs),Vector DBs,17
+Junior (1-3 yrs),Core Data,17
+Junior (1-3 yrs),OKRs,17
+Junior (1-3 yrs),MLflow,16
+Junior (1-3 yrs),SpaCy,16
+Junior (1-3 yrs),OpenCV,15
+Junior (1-3 yrs),Adobe XD,15
+Junior (1-3 yrs),People Management,15
+Junior (1-3 yrs),Web3.js,9
+Junior (1-3 yrs),Solidity,8
+Junior (1-3 yrs),Ethereum,8
+Junior (1-3 yrs),Smart Contracts,8
+Junior (1-3 yrs),Publications,8
+Junior (1-3 yrs),R,7
+Lead (10+ yrs),Python,146
+Lead (10+ yrs),REST APIs,92
+Lead (10+ yrs),SQL,92
+Lead (10+ yrs),AWS,86
+Lead (10+ yrs),Docker,78
+Lead (10+ yrs),Java,60
+Lead (10+ yrs),TypeScript,54
+Lead (10+ yrs),Node.js,50
+Lead (10+ yrs),JavaScript,49
+Lead (10+ yrs),Agile,49
+Lead (10+ yrs),React,48
+Lead (10+ yrs),MongoDB,46
+Lead (10+ yrs),Power BI,44
+Lead (10+ yrs),Statistics,38
+Lead (10+ yrs),PostgreSQL,35
+Lead (10+ yrs),Next.js,34
+Lead (10+ yrs),System Design,34
+Lead (10+ yrs),Kubernetes,34
+Lead (10+ yrs),Excel,33
+Lead (10+ yrs),JIRA,33
+Lead (10+ yrs),TensorFlow,33
+Lead (10+ yrs),HTML/CSS,32
+Lead (10+ yrs),Microservices,31
+Lead (10+ yrs),NLP,28
+Lead (10+ yrs),Django,27
+Lead (10+ yrs),Tableau,27
+Lead (10+ yrs),FastAPI,25
+Lead (10+ yrs),User Research,25
+Lead (10+ yrs),Figma,25
+Lead (10+ yrs),Data Visualization,23
+Lead (10+ yrs),Deep Learning,23
+Lead (10+ yrs),Terraform,21
+Lead (10+ yrs),Redux,20
+Lead (10+ yrs),Azure,20
+Lead (10+ yrs),Algorithms,20
+Lead (10+ yrs),Linux,19
+Lead (10+ yrs),Redis,19
+Lead (10+ yrs),Roadmapping,19
+Lead (10+ yrs),CI/CD,18
+Lead (10+ yrs),Scikit-learn,18
+Lead (10+ yrs),Express.js,18
+Lead (10+ yrs),Ansible,17
+Lead (10+ yrs),Firebase,17
+Lead (10+ yrs),C++,17
+Lead (10+ yrs),Airflow,16
+Lead (10+ yrs),Git,16
+Lead (10+ yrs),Jenkins,15
+Lead (10+ yrs),Android SDK,15
+Lead (10+ yrs),PyTorch,15
+Lead (10+ yrs),Vector DBs,15
+Lead (10+ yrs),ETL,15
+Lead (10+ yrs),Requirements Gathering,14
+Lead (10+ yrs),Maven,14
+Lead (10+ yrs),LLMs,13
+Lead (10+ yrs),Data Structures,13
+Lead (10+ yrs),Machine Learning,13
+Lead (10+ yrs),Hibernate,13
+Lead (10+ yrs),A/B Testing,13
+Lead (10+ yrs),Product Strategy,13
+Lead (10+ yrs),Wireframing,13
+Lead (10+ yrs),Kotlin,12
+Lead (10+ yrs),OpenAI API,12
+Lead (10+ yrs),CSS,12
+Lead (10+ yrs),LangChain,11
+Lead (10+ yrs),Spring Boot,11
+Lead (10+ yrs),Jetpack Compose,11
+Lead (10+ yrs),Spark,10
+Lead (10+ yrs),Team Leadership,10
+Lead (10+ yrs),Adobe XD,10
+Lead (10+ yrs),Prototyping,10
+Lead (10+ yrs),Kafka,10
+Lead (10+ yrs),Manual Testing,10
+Lead (10+ yrs),MLflow,9
+Lead (10+ yrs),Network Security,9
+Lead (10+ yrs),Penetration Testing,9
+Lead (10+ yrs),RAG,9
+Lead (10+ yrs),Tailwind CSS,9
+Lead (10+ yrs),Code Review,9
+Lead (10+ yrs),MLOps,9
+Lead (10+ yrs),OKRs,9
+Lead (10+ yrs),GCP,8
+Lead (10+ yrs),Prompt Engineering,8
+Lead (10+ yrs),SIEM,8
+Lead (10+ yrs),Data Modeling,8
+Lead (10+ yrs),API Testing,8
+Lead (10+ yrs),dbt,8
+Lead (10+ yrs),Pandas,8
+Lead (10+ yrs),SwiftUI,7
+Lead (10+ yrs),Hiring,7
+Lead (10+ yrs),Ethical Hacking,7
+Lead (10+ yrs),Postman,7
+Lead (10+ yrs),DAX,7
+Lead (10+ yrs),Swift,6
+Lead (10+ yrs),OpenCV,6
+Lead (10+ yrs),People Management,6
+Lead (10+ yrs),Publications,6
+Lead (10+ yrs),Xcode,5
+Lead (10+ yrs),Core Data,5
+Lead (10+ yrs),Selenium,5
+Lead (10+ yrs),Transformers,5
+Lead (10+ yrs),HuggingFace,5
+Lead (10+ yrs),YOLO,5
+Lead (10+ yrs),R,4
+Lead (10+ yrs),SpaCy,4
+Lead (10+ yrs),BERT,2
+Lead (10+ yrs),Smart Contracts,2
+Lead (10+ yrs),Solidity,2
+Lead (10+ yrs),Web3.js,1
+Lead (10+ yrs),Ethereum,1
+Mid (3-6 yrs),Python,440
+Mid (3-6 yrs),REST APIs,283
+Mid (3-6 yrs),Docker,238
+Mid (3-6 yrs),AWS,235
+Mid (3-6 yrs),SQL,233
+Mid (3-6 yrs),Java,163
+Mid (3-6 yrs),TypeScript,145
+Mid (3-6 yrs),JavaScript,130
+Mid (3-6 yrs),React,122
+Mid (3-6 yrs),Node.js,121
+Mid (3-6 yrs),Excel,118
+Mid (3-6 yrs),PostgreSQL,116
+Mid (3-6 yrs),MongoDB,112
+Mid (3-6 yrs),Agile,108
+Mid (3-6 yrs),Power BI,105
+Mid (3-6 yrs),Kubernetes,104
+Mid (3-6 yrs),Statistics,92
+Mid (3-6 yrs),JIRA,92
+Mid (3-6 yrs),Next.js,90
+Mid (3-6 yrs),System Design,88
+Mid (3-6 yrs),HTML/CSS,81
+Mid (3-6 yrs),Tableau,79
+Mid (3-6 yrs),FastAPI,79
+Mid (3-6 yrs),TensorFlow,78
+Mid (3-6 yrs),Microservices,75
+Mid (3-6 yrs),Terraform,70
+Mid (3-6 yrs),NLP,67
+Mid (3-6 yrs),Django,64
+Mid (3-6 yrs),Firebase,63
+Mid (3-6 yrs),Figma,60
+Mid (3-6 yrs),Linux,60
+Mid (3-6 yrs),Data Visualization,57
+Mid (3-6 yrs),Azure,53
+Mid (3-6 yrs),Spring Boot,50
+Mid (3-6 yrs),Roadmapping,50
+Mid (3-6 yrs),Deep Learning,50
+Mid (3-6 yrs),Maven,49
+Mid (3-6 yrs),CI/CD,49
+Mid (3-6 yrs),Redux,49
+Mid (3-6 yrs),User Research,48
+Mid (3-6 yrs),PyTorch,48
+Mid (3-6 yrs),Scikit-learn,48
+Mid (3-6 yrs),Hibernate,48
+Mid (3-6 yrs),ETL,48
+Mid (3-6 yrs),C++,45
+Mid (3-6 yrs),LLMs,45
+Mid (3-6 yrs),Airflow,44
+Mid (3-6 yrs),Data Structures,42
+Mid (3-6 yrs),Redis,42
+Mid (3-6 yrs),Git,40
+Mid (3-6 yrs),Algorithms,39
+Mid (3-6 yrs),Express.js,38
+Mid (3-6 yrs),Tailwind CSS,37
+Mid (3-6 yrs),Jetpack Compose,36
+Mid (3-6 yrs),Jenkins,35
+Mid (3-6 yrs),Manual Testing,35
+Mid (3-6 yrs),API Testing,35
+Mid (3-6 yrs),Kotlin,34
+Mid (3-6 yrs),Postman,33
+Mid (3-6 yrs),Requirements Gathering,33
+Mid (3-6 yrs),Android SDK,32
+Mid (3-6 yrs),dbt,31
+Mid (3-6 yrs),Ansible,31
+Mid (3-6 yrs),Spark,31
+Mid (3-6 yrs),A/B Testing,31
+Mid (3-6 yrs),Vector DBs,30
+Mid (3-6 yrs),Selenium,29
+Mid (3-6 yrs),OpenAI API,29
+Mid (3-6 yrs),DAX,28
+Mid (3-6 yrs),Xcode,27
+Mid (3-6 yrs),Kafka,27
+Mid (3-6 yrs),Code Review,26
+Mid (3-6 yrs),Pandas,26
+Mid (3-6 yrs),GCP,26
+Mid (3-6 yrs),Prompt Engineering,26
+Mid (3-6 yrs),Team Leadership,26
+Mid (3-6 yrs),SwiftUI,26
+Mid (3-6 yrs),Network Security,25
+Mid (3-6 yrs),Data Modeling,25
+Mid (3-6 yrs),Core Data,25
+Mid (3-6 yrs),Product Strategy,25
+Mid (3-6 yrs),RAG,25
+Mid (3-6 yrs),Adobe XD,24
+Mid (3-6 yrs),Machine Learning,24
+Mid (3-6 yrs),LangChain,24
+Mid (3-6 yrs),Prototyping,23
+Mid (3-6 yrs),MLflow,23
+Mid (3-6 yrs),SIEM,22
+Mid (3-6 yrs),CSS,22
+Mid (3-6 yrs),Ethical Hacking,21
+Mid (3-6 yrs),Wireframing,21
+Mid (3-6 yrs),Swift,21
+Mid (3-6 yrs),Penetration Testing,20
+Mid (3-6 yrs),Solidity,20
+Mid (3-6 yrs),Ethereum,17
+Mid (3-6 yrs),MLOps,17
+Mid (3-6 yrs),Web3.js,16
+Mid (3-6 yrs),Smart Contracts,16
+Mid (3-6 yrs),People Management,16
+Mid (3-6 yrs),Hiring,15
+Mid (3-6 yrs),R,14
+Mid (3-6 yrs),OKRs,14
+Mid (3-6 yrs),Transformers,14
+Mid (3-6 yrs),HuggingFace,13
+Mid (3-6 yrs),SpaCy,13
+Mid (3-6 yrs),BERT,12
+Mid (3-6 yrs),OpenCV,12
+Mid (3-6 yrs),Publications,11
+Mid (3-6 yrs),YOLO,9
+Senior (6-10 yrs),Python,267
+Senior (6-10 yrs),REST APIs,167
+Senior (6-10 yrs),Docker,144
+Senior (6-10 yrs),AWS,143
+Senior (6-10 yrs),SQL,132
+Senior (6-10 yrs),Java,111
+Senior (6-10 yrs),PostgreSQL,93
+Senior (6-10 yrs),React,86
+Senior (6-10 yrs),Excel,81
+Senior (6-10 yrs),Agile,77
+Senior (6-10 yrs),Power BI,74
+Senior (6-10 yrs),Statistics,73
+Senior (6-10 yrs),MongoDB,62
+Senior (6-10 yrs),FastAPI,61
+Senior (6-10 yrs),Django,60
+Senior (6-10 yrs),JavaScript,59
+Senior (6-10 yrs),System Design,58
+Senior (6-10 yrs),Node.js,58
+Senior (6-10 yrs),TypeScript,56
+Senior (6-10 yrs),JIRA,55
+Senior (6-10 yrs),Kubernetes,55
+Senior (6-10 yrs),Next.js,54
+Senior (6-10 yrs),TensorFlow,53
+Senior (6-10 yrs),Microservices,48
+Senior (6-10 yrs),Tableau,47
+Senior (6-10 yrs),HTML/CSS,47
+Senior (6-10 yrs),Figma,40
+Senior (6-10 yrs),Data Structures,40
+Senior (6-10 yrs),NLP,38
+Senior (6-10 yrs),User Research,37
+Senior (6-10 yrs),Deep Learning,37
+Senior (6-10 yrs),Scikit-learn,35
+Senior (6-10 yrs),Git,35
+Senior (6-10 yrs),Data Visualization,34
+Senior (6-10 yrs),PyTorch,31
+Senior (6-10 yrs),Requirements Gathering,31
+Senior (6-10 yrs),C++,31
+Senior (6-10 yrs),Terraform,30
+Senior (6-10 yrs),Firebase,28
+Senior (6-10 yrs),LLMs,27
+Senior (6-10 yrs),Redux,27
+Senior (6-10 yrs),Algorithms,26
+Senior (6-10 yrs),ETL,26
+Senior (6-10 yrs),Linux,26
+Senior (6-10 yrs),Redis,25
+Senior (6-10 yrs),Spring Boot,24
+Senior (6-10 yrs),Airflow,23
+Senior (6-10 yrs),Wireframing,23
+Senior (6-10 yrs),Roadmapping,22
+Senior (6-10 yrs),Adobe XD,22
+Senior (6-10 yrs),Code Review,22
+Senior (6-10 yrs),RAG,21
+Senior (6-10 yrs),Tailwind CSS,21
+Senior (6-10 yrs),Kotlin,20
+Senior (6-10 yrs),Prototyping,20
+Senior (6-10 yrs),Jenkins,20
+Senior (6-10 yrs),Android SDK,20
+Senior (6-10 yrs),Jetpack Compose,19
+Senior (6-10 yrs),Hibernate,19
+Senior (6-10 yrs),Azure,18
+Senior (6-10 yrs),OpenAI API,18
+Senior (6-10 yrs),Prompt Engineering,18
+Senior (6-10 yrs),CSS,18
+Senior (6-10 yrs),Team Leadership,18
+Senior (6-10 yrs),Machine Learning,18
+Senior (6-10 yrs),Maven,18
+Senior (6-10 yrs),Vector DBs,18
+Senior (6-10 yrs),CI/CD,17
+Senior (6-10 yrs),LangChain,16
+Senior (6-10 yrs),Product Strategy,15
+Senior (6-10 yrs),dbt,15
+Senior (6-10 yrs),Spark,15
+Senior (6-10 yrs),GCP,15
+Senior (6-10 yrs),MLOps,15
+Senior (6-10 yrs),Swift,15
+Senior (6-10 yrs),Selenium,14
+Senior (6-10 yrs),Pandas,14
+Senior (6-10 yrs),Manual Testing,13
+Senior (6-10 yrs),Xcode,13
+Senior (6-10 yrs),Kafka,13
+Senior (6-10 yrs),Core Data,12
+Senior (6-10 yrs),SwiftUI,12
+Senior (6-10 yrs),OpenCV,12
+Senior (6-10 yrs),Express.js,12
+Senior (6-10 yrs),Postman,11
+Senior (6-10 yrs),A/B Testing,11
+Senior (6-10 yrs),Penetration Testing,11
+Senior (6-10 yrs),API Testing,10
+Senior (6-10 yrs),Data Modeling,10
+Senior (6-10 yrs),Solidity,10
+Senior (6-10 yrs),Ethical Hacking,10
+Senior (6-10 yrs),Smart Contracts,9
+Senior (6-10 yrs),BERT,9
+Senior (6-10 yrs),HuggingFace,9
+Senior (6-10 yrs),People Management,9
+Senior (6-10 yrs),Network Security,9
+Senior (6-10 yrs),SIEM,9
+Senior (6-10 yrs),DAX,9
+Senior (6-10 yrs),YOLO,9
+Senior (6-10 yrs),Web3.js,8
+Senior (6-10 yrs),Transformers,8
+Senior (6-10 yrs),OKRs,8
+Senior (6-10 yrs),Hiring,8
+Senior (6-10 yrs),Publications,7
+Senior (6-10 yrs),Ansible,7
+Senior (6-10 yrs),MLflow,6
+Senior (6-10 yrs),Ethereum,6
+Senior (6-10 yrs),SpaCy,6
+Senior (6-10 yrs),R,4

@@ -1,0 +1,36 @@
+Experience_Level,Skill,Job_Count
+Fresher (0-1 yr),SQL,34
+Fresher (0-1 yr),Power BI,33
+Fresher (0-1 yr),Statistics,31
+Fresher (0-1 yr),Data Visualization,31
+Fresher (0-1 yr),Python,30
+Fresher (0-1 yr),Tableau,29
+Fresher (0-1 yr),Excel,27
+Junior (1-3 yrs),Power BI,35
+Junior (1-3 yrs),SQL,34
+Junior (1-3 yrs),Data Visualization,33
+Junior (1-3 yrs),Tableau,32
+Junior (1-3 yrs),Excel,28
+Junior (1-3 yrs),Statistics,28
+Junior (1-3 yrs),Python,23
+Lead (10+ yrs),Data Visualization,23
+Lead (10+ yrs),Power BI,22
+Lead (10+ yrs),Statistics,21
+Lead (10+ yrs),Python,20
+Lead (10+ yrs),SQL,20
+Lead (10+ yrs),Tableau,18
+Lead (10+ yrs),Excel,14
+Mid (3-6 yrs),Data Visualization,57
+Mid (3-6 yrs),Excel,51
+Mid (3-6 yrs),Tableau,50
+Mid (3-6 yrs),Statistics,50
+Mid (3-6 yrs),Python,49
+Mid (3-6 yrs),Power BI,48
+Mid (3-6 yrs),SQL,48
+Senior (6-10 yrs),Statistics,39
+Senior (6-10 yrs),Excel,35
+Senior (6-10 yrs),Data Visualization,34
+Senior (6-10 yrs),Power BI,33
+Senior (6-10 yrs),SQL,32
+Senior (6-10 yrs),Tableau,31
+Senior (6-10 yrs),Python,21

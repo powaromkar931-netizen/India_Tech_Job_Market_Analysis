@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Power BI temporary/recovery files
+*.pbi*.tmp
+*.pbi*.cache
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor/system folders
+.vscode/
