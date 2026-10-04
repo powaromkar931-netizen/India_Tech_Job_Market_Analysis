@@ -24,6 +24,10 @@ The objective of this project is to analyze technology job-market data and ident
 The analysis combines **Python-based data analysis, SQL querying, and an interactive Power BI dashboard**.
 
 ---
+## 📊 Dashboard Preview
+
+### Executive Overview
+![India Tech Job Market Dashboard](dashboard-overview.png)
 
 ## Dataset
 
